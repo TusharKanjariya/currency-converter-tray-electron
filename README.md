@@ -1,4 +1,5 @@
-# tray-app
+# currency-converter-tray-electron
+This electron app that Tray to open Currency Converter when than you need immediately.
 
 ## Project setup
 ```
